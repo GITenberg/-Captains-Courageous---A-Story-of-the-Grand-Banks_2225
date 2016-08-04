@@ -1,0 +1,50 @@
+_repo: -Captains-Courageous---A-Story-of-the-Grand-Banks_2225
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 2225/2225-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: Captains Courageous is an 1897 novel, by Rudyard Kipling, that follows
+  the adventures of fifteen-year-old Harvey Cheyne Jr., the arrogant and spoiled son
+  of a railroad tycoon. Washed overboard from a transatlantic steamship and rescued
+  by fishermen on the Grand Banks, the young Harvey cannot persuade them to take him
+  ashore, nor convince them of his wealth. However, the Captain of the We're Here,
+  Disko Troop, offers him a job as part of the crew until they return to port ...
+gutenberg_bookshelf:
+- Movie Books
+- Scouts
+- Adventure
+gutenberg_issued: '2000-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2225'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories'
+- !lcsh 'Fishers -- Fiction'
+- !lcsh 'Rescues -- Fiction'
+- !lcsh 'Saltwater fishing -- Fiction'
+- !lcsh 'Fishing boats -- Fiction'
+- !lcsh 'Grand Banks of Newfoundland -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Children of the rich -- Fiction'
+- !lcsh 'Teenage boys -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: '"Captains Courageous": A Story of the Grand Banks'
+url: http://www.gutenberg.org/ebooks/2225

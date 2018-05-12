@@ -1,10 +1,8 @@
 _repo: -Captains-Courageous---A-Story-of-the-Grand-Banks_2225
-_version: 0.1.0
+_version: 0.2.0
 covers:
-- cover_type: archival
-  image_path: 2225/2225-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kipling, Rudyard
@@ -22,6 +20,8 @@ description: Captains Courageous is an 1897 novel, by Rudyard Kipling, that foll
   by fishermen on the Grand Banks, the young Harvey cannot persuade them to take him
   ashore, nor convince them of his wealth. However, the Captain of the We're Here,
   Disko Troop, offers him a job as part of the crew until they return to port ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2225#-Captains-Courageous---A-Story-of-the-Grand-Banks
 gutenberg_bookshelf:
 - Movie Books
 - Scouts

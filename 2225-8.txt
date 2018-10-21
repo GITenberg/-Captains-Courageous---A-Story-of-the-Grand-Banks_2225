@@ -10,9 +10,8 @@ Title: "Captains Courageous"
 
 Author: Rudyard Kipling
 
-Posting Date: April 20, 2011 [EBook #2225]
-Release Date: May, 2000
-[Last updated: May 13, 2011]
+Release Date: October 4, 1999 [EBook #2225]
+Last updated: February 18, 2018
 
 Language: English
 
@@ -28,16 +27,11 @@ Produced by Bill Stoddard.
 
 
 
-
-
-
-
-
 "CAPTAINS COURAGEOUS"
 
 A STORY OF THE GRAND BANKS
 
-by Rudyard Kipling
+By Rudyard Kipling
 
 
 
@@ -664,10 +658,10 @@ your father?"
 "In the cabin What d' you want o' him again?"
 
 "You'll see," said Harvey, and he stepped, rather groggily, for his
-head was still singing, to the cabin steps, where the little ship's
-clock hung in plain sight of the wheel. Troop, in the
+head was still singing, to the cabin steps, where the little
+ship's clock hung in plain sight of the wheel. Troop, in the
 chocolate-and-yellow painted cabin, was busy with a note-book and an
-enormous black pencil, which he sucked hard from time to time
+enormous black pencil, which he sucked hard from time to time.
 
 "I haven't acted quite right," said Harvey, surprised at his own
 meekness.
@@ -772,7 +766,7 @@ inhabitin' South Boston, where they all live mostly, an' mostly them
 Galway men are good in a boat. North, away yonder--you'll hear him tune
 up in a minute--is Tom Platt. Man-o'-war's man he was on the old
 Ohio--first of our navy, he says, to go araound the Horn. He never
-talks of much else, 'cept when he sings, but be has fair fishin' luck.
+talks of much else, 'cept when he sings, but he has fair fishin' luck.
 There! What did I tell you?"
 
 A melodious bellow stole across the water from the northern dory.
@@ -1053,8 +1047,9 @@ does, where the farmers speak home-made Scotch. Cape Breton's full o'
 niggers whose folk run in there durin' aour war, an' they talk like the
 farmers--all huffy-chuffy."
 
-"That is not Scotch," said "Pennsylvania." "That is Gaelic. So I read
-in a book."
+"That is not Scotch," said "Pennsylvania."
+
+"That is Gaelic. So I read in a book."
 
 "Penn reads a heap. Most of what he says is so--'cep' when it comes to
 a caount o' fish--eh?"
@@ -1442,7 +1437,7 @@ had never occurred to him to ask how they came inland. Now he knew; and
 every inch of his body ached with fatigue.
 
 "Ef dad was along," said Dan, hauling up, "he'd read the signs plain's
-print. The fish arc runnin' smaller an' smaller, an' you've took baout
+print. The fish are runnin' smaller an' smaller, an' you've took baout
 as logy a halibut's we're apt to find this trip. Yesterday's catch--did
 ye notice it?--was all big fish an' no halibut. Dad he'd read them
 signs right off. Dad says everythin' on the Banks is signs, an' can be
@@ -1483,9 +1478,11 @@ again? Don't try any more o' your patents. Come up on her, and keep
 your rodin' straight up an' down."
 
 "It doesn't move," said the little man, panting. "It doesn't move at
-all, and indeed I tried everything." "What's all this hurrah's-nest
-for'ard?" said Dan, pointing to a wild tangle of spare oars and
-dory-roding, all matted together by the hand of inexperience.
+all, and indeed I tried everything."
+
+"What's all this hurrah's-nest for'ard?" said Dan, pointing to a wild
+tangle of spare oars and dory-roding, all matted together by the hand of
+inexperience.
 
 "Oh, that," said Penn, proudly, "is a Spanish windlass. Mr. Salters
 showed me how to make it; but even that doesn't move her."
@@ -3110,9 +3107,14 @@ Platt came out of it roped with black pigtail and stuffed with cakes of
 chewing and smoking tobacco. Then those jovial mariners swung off into
 the mist, and the last Harvey heard was a gay chorus:
 
-"Par derriere chez ma tante, Il y a un bois joli, Et le rossignol y
-chante Et le jour et la nuit... Que donneriez vous, belle, Qui
-I'amènerait ici? Je donnerai Québec, Sorel et Saint Denis."
+          "Par derriere chez ma tante,
+          Il y a un bois joli,
+          Et le rossignol y chante
+          Et le jour et la nuit...
+          Que donneriez vous, belle,
+          Qui l'amènerait ici?
+          Je donnerai Québec,
+          Sorel et Saint Denis."
 
 "How was it my French didn't go, and your sign-talk did?" Harvey
 demanded when the barter had been distributed among the "We're Heres".
@@ -3172,7 +3174,7 @@ enlighten us."
 not stand up to that particular sort of talk, and snapped out the
 latitude and longitude without more lectures.
 
-"'Well, tbat's a boat-load of lunatics, sure," said the skipper, as he
+"'Well, that's a boat-load of lunatics, sure," said the skipper, as he
 rang up the engine-room and tossed a bundle of newspapers into the
 schooner.
 
@@ -4025,7 +4027,7 @@ that the honours lay with them.
 All that night the Virgin roared hoarsely and next morning, over an
 angry, white-headed sea, Harvey saw the Fleet with flickering masts
 waiting for a lead. Not a dory was hove out till ten o'clock, when the
-two Jeraulds of the Day's Eye, imagining a lull which did not exist,
+two Jeraulds of the 'Day's Eye', imagining a lull which did not exist,
 set the example. In a minute half the boats were out and bobbing in the
 cockly swells, but Troop kept the "We're Heres" at work dressing-down.
 He saw no sense in "dares"; and as the storm grew that evening they had
@@ -4060,8 +4062,14 @@ seem to have any form of service, but in the night, at anchor, Harvey
 heard them across the star-powdered black water, singing something that
 sounded like a hymn. It went to a very slow tune.
 
-La brigantine Qui va tourner, Roule et s'incline Pour m'entrainer. Oh,
-Vierge Marie, Pour moi priez Dieu! Adieu, patrie; Québec, adieu!
+     La brigantine
+     Qui va tourner,
+     Roule et s'incline
+     Pour m'entrainer.
+     Oh, Vierge Marie,
+     Pour moi priez Dieu!
+     Adieu, patrie;
+     Québec, adieu!
 
 Tom Platt visited her, because, he said, the dead man was his brother
 as a Freemason. It came out that a wave had doubled the poor fellow
@@ -5884,7 +5892,7 @@ returned Salters, "it stands in the nature o' things they hev to be
 for a season, ef you scatter them araound on lugsuries--"
 
 "But to lose everything--everything," said Penn. "What can you do then?
-Once I"--the watery blue eyes stared up and down, as looking for
+Once!"--the watery blue eyes stared up and down, as looking for
 something to steady them--"once I read--in a book, I think--of a boat
 where every one was run down--except some one--and he said to me--"
 
@@ -6025,7 +6033,7 @@ dory, Robert Beavon, 29, married, native of Pubnico, Nova Scotia."
 
 But his wife was in the hall. They heard a low cry, as though a little
 animal had been hit. It was stifled at once, and a girl staggered out
-of the hail. She had been hoping against hope for months, because some
+of the hall. She had been hoping against hope for months, because some
 who have gone adrift in dories have been miraculously picked up by
 deep-sea sailing-ships. Now she had her certainty, and Harvey could see
 the policeman on the sidewalk hailing a hack for her. "It's fifty cents
@@ -6037,8 +6045,8 @@ The side-door closed on the patch of bright sunshine, and Harvey's eyes
 turned again to the reader and his endless list.
 
 "April 19th.--Schooner "Mamie Douglas" lost on the Banks with all
-hands. "Edward Canton, 43, master, married, City. "D. Hawkins, alias
-Williams, 34, married, Shelbourne, Nova Scotia. "G. W. Clay, coloured,
+hands. "Edward Canton," 43, master, married, City. "D. Hawkins," alias
+Williams, 34, married, Shelbourne, Nova Scotia. "G. W. Clay," coloured,
 28, married, City."
 
 And so on, and so on. Great lumps were rising in Harvey's throat, and
@@ -6114,7 +6122,7 @@ entreated Harvey to remember his lessons in seamanship; but the jokes
 fell flat in the presence of the two women, and it is hard to be funny
 with green harbour-water widening between good friends.
 
-"Up jib and fores'l! "shouted Disko, getting to the wheel, as the wind
+"Up jib and fores'l!" shouted Disko, getting to the wheel, as the wind
 took her. "See you later, Harve. Dunno but I come near thinkin' a heap
 o' you an' your folks."
 
@@ -6176,11 +6184,6 @@ stand at present," said Dan. "She was an able packet, and one way an'
 another I owe her a heap--her and dad."
 
 "Me too," quoth Harvey Cheyne.
-
-
-
-
-
 
 
 
@@ -6546,3 +6549,8 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+
+
+
+
+
